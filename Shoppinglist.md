@@ -1,5 +1,5 @@
 # my shopping list
--pineapples
+- pineapples
 - bananas
 - eggs
 - sucuk
