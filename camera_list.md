@@ -3,3 +3,4 @@
 - yashica electro 35
 - fed 2
 - canon ae-1 program
+- xt-1
