@@ -4,4 +4,3 @@
 - eggs
 - sucuk
 - milk
-- bread
