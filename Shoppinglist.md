@@ -1,6 +1,6 @@
 # my shopping list
 - pineapples
 - bananas
-- double yellowed eggs
+- cakes
 - sucuk
 - milk
