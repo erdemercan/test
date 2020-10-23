@@ -1,6 +1,7 @@
 # my shopping list
-- pineapples
+-pineapples
 - bananas
-- cakes
+- eggs
 - sucuk
 - milk
+- bread
